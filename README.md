@@ -117,25 +117,15 @@ while (alive) {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=K274403&show_icons=true&include_all_commits=true&hide_border=true&bg_color=070b10&title_color=a8ff18&icon_color=00eaff&text_color=d9e7ef" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K274403&layout=compact&hide_border=true&bg_color=070b10&title_color=a8ff18&text_color=d9e7ef" alt="Most used languages"/>
-<br/>
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=K274403&hide_border=true&background=070b10&ring=a8ff18&fire=00eaff&currStreakLabel=a8ff18&sideLabels=d9e7ef&dates=8da2b0" alt="GitHub streak"/>
+  <a href="https://github.com/K274403">
+    <img src="https://github-readme-stats.vercel.app/api?username=K274403&show_icons=true&hide_border=true&bg_color=070b10&title_color=a8ff18&icon_color=00eaff&text_color=d9e7ef" width="49%" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/K274403?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K274403&layout=compact&hide_border=true&bg_color=070b10&title_color=a8ff18&text_color=d9e7ef" width="49%" alt="Most used languages"/>
+  </a>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=K274403&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies"/>
-</div>
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=K274403&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%" alt="Top contributed repositories"/>
-</div>
+> **Contribution activity & achievements:** GitHub's own contribution graph, streak, and repository activity are available directly on your [profile](https://github.com/K274403). The third-party streak, trophy, and contributor image services have been removed here so the README won't show broken-image icons when those services are unavailable.
 
 ---
 
